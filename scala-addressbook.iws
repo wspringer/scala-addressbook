@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33b61704-45e1-43b7-88d8-a02c21951dcf" name="Default" comment="" />
+    <list default="true" id="33b61704-45e1-43b7-88d8-a02c21951dcf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-addressbook.ipr" afterPath="$PROJECT_DIR$/scala-addressbook.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-addressbook.iws" afterPath="$PROJECT_DIR$/scala-addressbook.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/Contact.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/Contact.scala" />
+    </list>
     <ignored path="scala-addressbook.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,7 +81,7 @@
       <file leaf-file-name="AddressBook.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/AddressBook.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="44" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0">
+            <state line="19" column="18" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,10 +114,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddressBookStoreSpec.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AddressBookStoreSpec.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/com/xebia/contest/language/AddressBookStoreSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="40" selection-start="981" selection-end="981" vertical-scroll-proportion="0.4573304">
+            <state line="25" column="40" selection-start="981" selection-end="981" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,10 +159,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contact.scala" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Contact.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/Contact.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="36" selection-end="931" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.5251641">
               <folding />
             </state>
           </provider>
@@ -171,6 +175,10 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -178,13 +186,13 @@
         <option value="$PROJECT_DIR$/src/test/scala/samples/com/xebia/contest/language/ContactSpec.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/xebia/contest/language/ContactSpec.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/xebia/contest/language/AddressBookSpec.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/Contact.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/xebia/contest/language/CustomMatchers.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/scala/com/xebia/contest/language/AddressBookSpec.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/xebia/contest/language/AddressBookStoreSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/AddressBookStore.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/AddressBook.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/Contact.scala" />
       </list>
     </option>
   </component>
@@ -584,7 +592,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6710875" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -684,23 +692,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/Contact.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="36" selection-end="931" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/AddressBookStore.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="6" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/AddressBook.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="44" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -721,7 +715,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/xebia/contest/language/AddressBookStoreSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="40" selection-start="981" selection-end="981" vertical-scroll-proportion="0.4573304">
+        <state line="25" column="40" selection-start="981" selection-end="981" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/AddressBook.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="18" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/xebia/contest/language/Contact.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.5251641">
           <folding />
         </state>
       </provider>

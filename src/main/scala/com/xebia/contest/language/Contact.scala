@@ -13,8 +13,8 @@ class Contact(val firstName: String,
 
   def fullName =
     if (middleName.isDefined)
-      List(firstName, middleName, lastName).mkString(" ") else
-      List(firstName, lastName).mkString(" ")
+      firstName + " " + middleName + " " + lastName else
+      firstName + " " + middleName
 
   def changePhoneNumberTo(phoneNumber: String) =
     new Contact(firstName, middleName, lastName, Some(phoneNumber))
